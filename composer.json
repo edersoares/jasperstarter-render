@@ -1,7 +1,7 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "edersoares/jasperstarter-render",
+    "description": "Service for render reports using JasperStarter.",
+    "keywords": ["jasperstarter", "reports", "lumen"],
     "license": "MIT",
     "type": "project",
     "require": {
